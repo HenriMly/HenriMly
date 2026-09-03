@@ -29,7 +29,7 @@
    👉 Refonte de site WordPress en Next.js.
 
 - 🔹 **KODO** (2026 - 2026) – Alternance développeur Odoo
-   👉 Création de modules Odoo et migration de données. 
+  👉 Création de modules Odoo et migration de données. 
 
 - 🔹 **ACI Industrie** (2024 – 2025) – Alternance développeur full stack  
    👉 Création de modules Prestashop, modernisation front & back du shop, sites WordPress et design.  
