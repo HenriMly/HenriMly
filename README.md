@@ -25,13 +25,19 @@
 
 ## 💼 Expériences
 
-- 🔹 **ACI Industrie** (2024 – aujourd’hui) – Alternance développeur full stack  
+- 🔹 **Securiblock** (2026 - Aujourd'hui) – Alternance développeur full stack  
+   👉 Refonte de site WordPress en Next.js.
+
+- 🔹 **KODO** (2026 - 2026) – Alternance développeur Odoo
+   👉 Création de modules Odoo et migration de données. 
+
+- 🔹 **ACI Industrie** (2024 – 2025) – Alternance développeur full stack  
    👉 Création de modules Prestashop, modernisation front & back du shop, sites WordPress et design.  
 
-- 🔹 **Valoxy** (2024) – Stage développeur web  
+- 🔹 **Valoxy** (2024 - 2024) – Stage développeur web  
    👉 Refonte du blog et optimisation SEO.  
 
-- 🔹 **Prodilog** (2023) – Stage systèmes et réseaux  
+- 🔹 **Prodilog** (2023 - 2023) – Stage systèmes et réseaux  
    👉 Création d’un Syslog et support technique.  
 
 ---
