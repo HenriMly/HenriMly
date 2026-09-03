@@ -55,7 +55,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=HenriMly&color=blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HenriMly&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriMly&layout=compact&theme=radical)
 
 ---
 
